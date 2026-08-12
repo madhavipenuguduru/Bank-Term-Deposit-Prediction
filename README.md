@@ -38,7 +38,6 @@ Load bank-full.csv into a DataFrame.
 - Create AgeGroup bins
 - Handle outliers in balance and clip duration extremes
 - Drop unnecessary columns (pdays, previous)
-- 
 ##### 3.Feature Preparation
 
 - One-hot encoding for categorical data
