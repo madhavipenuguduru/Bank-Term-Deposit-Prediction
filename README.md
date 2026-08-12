@@ -7,17 +7,17 @@ A machine learning-based solution designed to predict whether a customer will su
 This project helps financial institutions identify clients who are likely to subscribe to a term deposit. By analyzing past marketing campaign data, a Random Forest classifier is trained to predict customer response based on demographic and interaction features.
 
 ### 🚀 Key Features
-✅ Load and process data from CSV file (bank-full.csv)
-✅ Handle missing values using mode
-✅ Detect and handle outliers using IQR
-✅ One-hot encode categorical variables
-✅ Categorize age into groups (Youth, Adult, Senior)
-✅ Train a RandomForestClassifier
-✅ Evaluate with:
+- ✅ Load and process data from CSV file (bank-full.csv)
+- ✅ Handle missing values using mode
+- ✅ Detect and handle outliers using IQR
+- ✅ One-hot encode categorical variables
+- ✅ Categorize age into groups (Youth, Adult, Senior)
+- ✅ Train a RandomForestClassifier
+- ✅ Evaluate with:
 - Accuracy
 - Confusion Matrix
 - Classification Report
-✅ Display top feature importances
+- ✅ Display top feature importances
 ### 🛠 Technologies Used
 | Technology | Purpose |
 |------------|---------|
