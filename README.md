@@ -27,11 +27,11 @@ This project helps financial institutions identify clients who are likely to sub
 | Scikit-learn | Machine learning tools and models |
 | Jupyter Notebook | Interactive development environment |
 ### ⚙ Workflow Overview
-# 1.Data Loading
+##### 1.Data Loading
 
 Load bank-full.csv into a DataFrame.
 
-### 2.Preprocessing
+##### 2.Preprocessing
 
 - Fill missing values
 - Encode target and categorical columns
@@ -39,16 +39,16 @@ Load bank-full.csv into a DataFrame.
 - Handle outliers in balance and clip duration extremes
 - Drop unnecessary columns (pdays, previous)
 - 
-### 3.Feature Preparation
+##### 3.Feature Preparation
 
 - One-hot encoding for categorical data
 - Feature scaling using StandardScaler
 - Split into train-test sets
 
-### 4.Modeling
+##### 4.Modeling
 
 Train a RandomForestClassifier on the processed data
-### 5.Evaluation
+##### 5.Evaluation
 
 Compute accuracy, classification report, and confusion matrix
 Extract and rank feature importances
