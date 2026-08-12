@@ -14,9 +14,9 @@ This project helps financial institutions identify clients who are likely to sub
 - ✅ Categorize age into groups (Youth, Adult, Senior)
 - ✅ Train a RandomForestClassifier
 - ✅ Evaluate with:
-- Accuracy
-- Confusion Matrix
-- Classification Report
+  - Accuracy
+  - Confusion Matrix
+  - Classification Report
 - ✅ Display top feature importances
 ### 🛠 Technologies Used
 | Technology | Purpose |
